@@ -1,0 +1,2 @@
+.root{box-sizing:border-box;padding:0}.root,body{margin:0}.container{display:flex;flex-direction:column;height:100vh}.child{height:100%;overflow:hidden;text-align:center;width:100%}.child1{background-color:#bb7fb4}.child1,.child2{border:1px solid red}.child2{background-color:#719dcb}.child3{background-color:#e0ffff;border:1px solid red}@media only screen and (max-width:768px){.child{font-size:14px;line-height:20px;padding:5px 10px 5px 5px;text-align:left}}
+/*# sourceMappingURL=main.e972f5ad.css.map*/
